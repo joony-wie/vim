@@ -1,4 +1,2 @@
 # vim
-# vim
-# vim
-# vim
+# ~/.vimrc

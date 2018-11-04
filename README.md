@@ -1,4 +1,6 @@
 {% highlight text %}
+
+
 syntax on "  구문강조 사용
 set relativenumber
 set autoindent       " 자동 들여쓰기

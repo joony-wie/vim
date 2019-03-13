@@ -242,3 +242,6 @@ let g:ctrlp_custom_ignore = {
 " key-mapping
 imap jk <ESC>
 nmap <F2> :w<CR>
+
+
+first change...
